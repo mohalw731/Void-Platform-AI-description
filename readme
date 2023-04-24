@@ -1,3 +1,4 @@
+
 About void platform AI
 
 Void platform is built in C# using WPF and WinForms for UI design, while the backend (AI) and APIs are made with Python and C# ML.net (C#), TensorFlow (Python), and PyTorch (Python). 
