@@ -1,0 +1,23 @@
+About void platform AI
+
+Void platform is built in C# using WPF and WinForms for UI design, while the backend (AI) and APIs are made with Python and C# ML.net (C#), TensorFlow (Python), and PyTorch (Python). 
+The AI is trained on the cloud with ML.net and TensorFlow, using over 3 trillion data sets such as WebText, BooksCorpus, English Wikipedia, LAMBADA, and more. It took about one year to train the AI and develop the UI. 
+A web scraper is also built-in, which activates every 24 hours to find the latest information online, such as news. It has the ability to search the web for information on TV shows or films, including what happens in a specific minute in the show or movie.
+It can also write about books and specific pages or chapters.
+
+Void AI is designed for people of all ages and backgrounds, including programmers, gym trainers, and students.
+It can answer any question and provide accurate and up-to-date information. The desktop app has built-in tools, and a future feature called the "web version" is a Python script connected to the API,
+which uses the Deep Learning Framework Gradio for the UI.
+
+To access the web version, go to the dashboard after signing up, click on "Settings," then press the "pip install all requirements" button. After the CMD window pops up,
+wait a few seconds, then go back to the dashboard and click the "Web Version" button. Wait for about 10 seconds for a public link to generate, then share it with friends and family for free on the web.
+
+The AI assistant, named Otis, is also built in Python and connected to the API.
+It uses speech recognition and pyttsx3 so that users can communicate with it through their voice, and it responds with voice. Otis can also control smart devices in your home that use Bluetooth and Wi-Fi, 
+such as smart lamps and smart TVs. Users can ask Otis for advice, information about news, weather, things on their phone or PC, or even make it do things like start YouTube or Netflix on their smart TV. It can also write an essay's or send a message to a friend.
+
+The mobile app is also connected to the API, and it currently runs only on iOS. Users can ask it to code, write essays/texts, and perform all other functions available on our AI. 
+A cool feature is that it is connected to Siri, so users can ask Siri any questions about their phone or even book a flight.
+
+youtube Video
+https://www.youtube.com/watch?v=e3Hc55_PcqY&t=25s
